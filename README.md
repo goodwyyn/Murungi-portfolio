@@ -1,5 +1,26 @@
-==== Godwin.Portfolio ====
+=== GODWIN"S PORTFOLIO ===
+= This portfolio is created i HTML, CSS and JavaScript.
+= It is created by Godwin, a software engineering student at Moringa School.
+
+=== PROJECT DESRIPTION ===
+This is a portfolio of myself explaining my areas of strength and what I can do. It is created in HTML, CSS and Javascript.
+
+=== INSTALATION ===
+contains : index.html
+           style.css
+           script.js
+           README.md
+= Images are downloaded online into the local machine.
+
+=== ACKNOWLEDGEMENTS ===
+    Moringa School
+    W3 Schools
+    CodingNepal
+    Programing by Mosh
 
 
-Hey user. Am Godwin a software developer ready to exchange ideas with any intrested parties so as to solve real world problems. This portfolio is created by me and if you are intrested with working with me kindly reach out to me through thhe social media plartforms shared or through my mobile number, I am looking forward to working with you. 
-For any inquiries kindly use the plartforms too.
+=== C0NTACT ===
+Name : Godwin Mutuma Murungi
+Email : godwinmutuma742@gmail.com.
+
+
